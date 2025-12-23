@@ -1,5 +1,4 @@
-
-
+<a id="readme-top"></a>
 ![Contributors](https://img.shields.io/github/contributors/BeeyWasser/Calculator?color=000000&label=Contributors)
 ![Forks](https://img.shields.io/github/forks/BeeyWasser/Calculator?color=000000&label=Forks)
 ![Stars](https://img.shields.io/github/stars/BeeyWasser/Calculator?color=000000&label=Stars)
@@ -89,25 +88,33 @@ The C/C++ extension is particularly important, as it provides fundamental resour
 https://share.google/iNyoPGxWDD91PFkWy
 
 ### Installation
+<ol>
+  <li><strong>Clone the repository</strong></li>
+  <pre><code>git clone https://github.com/BeeyWasser/Calculator.git</code></pre>
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+  <li><strong>Open the project in VS Code</strong></li>
+  <pre><code>cd Calculator
+code .</code></pre>
+
+  <li><strong>Check the compiler</strong><br>
+  In the VS Code terminal, run:</li>
+  <pre><code>gcc --version</code></pre>
+
+  <li><strong>Compile the program</strong></li>
+  <pre><code>gcc main.c -o calculadora</code></pre>
+
+  <li><strong>Run the program</strong></li>
+  <pre><code>./calculadora</code></pre>
+
+  <em>(On Windows: <code>calculadora.exe</code>)</em>
+</ol>
+
+<h2>Expected Result</h2>
+
+<p>
+The calculator will run in the terminal, allowing users to perform basic arithmetic operations quickly and reliably.
+</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
