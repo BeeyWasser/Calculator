@@ -13,9 +13,9 @@
     A simple calculator builded only using C#.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/BeeyWasser/Calculator">View Demo</a>
     &middot;
-   <a href="https://github.com/github_username/repo_name"><strong>Explore the doc </strong></a>
+   <a href="https://github.com/BeeyWasser/Calculator"><strong>Explore the doc </strong></a>
   </p>
 </div>
 
@@ -24,11 +24,6 @@
 
 ## 📓 Summary
 A simple calculator builded only using C#, whose contain these operations: addition, subtraction, multiplication, and division.
-
-## 🎮 Basic example
-A basic example of a photo showing a operation of addition: 
-
-
 
 ## 🔭 Motivation
 I created this project for learn and pratice the C# language, but this project It offers a quick, easy, and affordable way to perform basic mathematical operations with 
@@ -115,17 +110,6 @@ code .</code></pre>
 The calculator will run in the terminal, allowing users to perform basic arithmetic operations quickly and reliably.
 </p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
